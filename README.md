@@ -17,7 +17,6 @@ HTML and CSS
 
 
 ### HTML and CSS Projects:
-- [x] Taco shop
 - [X] Abelton Landing page
 - [x] Abstract landing page
 - [x] Basic landing page
